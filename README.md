@@ -29,10 +29,6 @@ To run the Tea Cozy website locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/tea-cozy-website.git`
 2. Open the `index.html` file in a web browser.
 
-## Project Preview
-
-You can preview the Tea Cozy website by visiting [this link](https://example.com).
-
 ## Contributing
 
 Contributions to this project are not accepted as it is a fictional tea company website created for learning purposes.
