@@ -32,7 +32,3 @@ To run the Tea Cozy website locally, follow these steps:
 ## Contributing
 
 Contributions to this project are not accepted as it is a fictional tea company website created for learning purposes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
